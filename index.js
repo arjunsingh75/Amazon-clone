@@ -1,0 +1,1 @@
+alert("this id amazon clone");

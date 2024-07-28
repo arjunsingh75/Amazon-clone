@@ -1,1 +1,1 @@
-alert("this id amazon clone");
+// alert("this is amazon clone");

@@ -19,13 +19,7 @@
     background-image: url("https://th.bing.com/th?id=OIP.T6UN4S8JqRmh_9o-nQ7M4gHaEk&w=318&h=196&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2");
     background-size:cover;
     height:40px;
-    width:100%;
-    margin-top:5px;
-}
-.nav-logo{
-    height: 50px;
-    width:110px;
-
+    width:80px;
 }
 .border{
     
@@ -184,39 +178,20 @@ margin-bottom: 25px;
     width:100%;
     color:white;
     background-color: #495a6c;
-    margin-top:5px;
+    margin-top: 5px;
     display:flex;
     justify-content:center;
 }
 .foot-panel-2{
-    height:400px;
+    height:300px;
     background-color: #2a3644;
-    /* margin-top:2px; */
     display: flex;
-    padding-top: 10px;
+    justify-content: space-between;
+    padding: 10px;
     font-size:large;
     color:cadetblue;
-
 }
-.foot-panel-3{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 70px;
-    background-color:  #495a6c;
-}
-.logo-2{
-    background-image: url("https://th.bing.com/th?id=OIP.T6UN4S8JqRmh_9o-nQ7M4gHaEk&w=318&h=196&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2");
-    background-size: cover;
-    width:120px;
-    height: 50px;
-}
-.foot-panel-4{
-    height: 50px;
-    background-color: #495a6c ;
+.foot-panel-2 ul{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
 }
